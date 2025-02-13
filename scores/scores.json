@@ -1,0 +1,53 @@
+{
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0,
+      "FrScTe6": 0,
+      "FrScTe7": 0,
+      "FrScTe8": 0,
+      "FrScTe9": 1,
+      "FrScTe10": 0,
+      "FrScTe11": 0,
+      "FrScTe12": 0,
+      "FrScTe13": 0
+    }
+  },
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests sum can return the sum of a non empty array",
+    "FrScTe2": "From Scratch Tests sum can return the sum of an empty array",
+    "FrScTe3": "From Scratch Tests sum is written recursively",
+    "FrScTe4": "From Scratch Tests reverse can reverse a simple string",
+    "FrScTe5": "From Scratch Tests reverse can reverse a string with spaces",
+    "FrScTe6": "From Scratch Tests reverse can reverse a numeric string",
+    "FrScTe7": "From Scratch Tests reverse is written recursively",
+    "FrScTe8": "From Scratch Tests Fibonacci fibIter - given n, returns the correct Fibonacci number",
+    "FrScTe9": "From Scratch Tests Fibonacci fibIter - is written iteratively",
+    "FrScTe10": "From Scratch Tests Fibonacci fibRec - given n, returns the correct Fibonacci number",
+    "FrScTe11": "From Scratch Tests Fibonacci fibRec - is written recursively",
+    "FrScTe12": "From Scratch Tests binarySearch returns the index of target if found or -1 if not",
+    "FrScTe13": "From Scratch Tests binarySearch is written recursively"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests sum can return the sum of a non empty array": "FrScTe1",
+    "From Scratch Tests sum can return the sum of an empty array": "FrScTe2",
+    "From Scratch Tests sum is written recursively": "FrScTe3",
+    "From Scratch Tests reverse can reverse a simple string": "FrScTe4",
+    "From Scratch Tests reverse can reverse a string with spaces": "FrScTe5",
+    "From Scratch Tests reverse can reverse a numeric string": "FrScTe6",
+    "From Scratch Tests reverse is written recursively": "FrScTe7",
+    "From Scratch Tests Fibonacci fibIter - given n, returns the correct Fibonacci number": "FrScTe8",
+    "From Scratch Tests Fibonacci fibIter - is written iteratively": "FrScTe9",
+    "From Scratch Tests Fibonacci fibRec - given n, returns the correct Fibonacci number": "FrScTe10",
+    "From Scratch Tests Fibonacci fibRec - is written recursively": "FrScTe11",
+    "From Scratch Tests binarySearch returns the index of target if found or -1 if not": "FrScTe12",
+    "From Scratch Tests binarySearch is written recursively": "FrScTe13"
+  },
+  "humanReadable": {
+    "From Scratch Tests": "1/13",
+    "finalTestScore": "FINAL SCORE: 1/13"
+  }
+}
